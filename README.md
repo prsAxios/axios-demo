@@ -1,2 +1,2 @@
 # axios-demo
-Demo repository
+Demo repository for Github
